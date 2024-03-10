@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+section {
+  margin: 20px;
+}
+
+.doctor {
+  margin-bottom: 20px;
+}
+
+.contact-info {
+  font-weight: bold;
+}
+
+footer {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 10px 0;
+}
